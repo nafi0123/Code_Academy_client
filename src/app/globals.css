@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@plugin "daisyui";
+/* globals.css */
+body {
+  @apply bg-gray-50 text-gray-800;
+}
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+
+@import "swiper/css";
+@import "swiper/css/navigation";
+@import "swiper/css/pagination";
+@import "swiper/css/effect-fade";
