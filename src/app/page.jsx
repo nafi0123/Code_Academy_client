@@ -2,6 +2,7 @@ import Banner from "@/components/Banner";
 import PopularCourse from "@/components/PopularCourse";
 import HighlightSection from "@/components/HighlightSection";
 import CallToAction from "@/components/CallToAction";
+import TrustedSection from "@/components/TrustedSection";
 
 export default function Home() {
   return (
@@ -25,6 +26,13 @@ export default function Home() {
         titleColor="text-indigo-700"
         cardsBg="bg-white"
         cardsShadow="shadow-md"
+      />
+
+      <TrustedSection 
+        title="Trusted by Top Tech Brands"
+        subtitle="Thousands of students and developers grow their careers with CodeAcademy."
+        titleColor="text-indigo-700"
+        bg="bg-gray-50"
       />
 
       <CallToAction 
