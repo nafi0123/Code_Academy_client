@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div className="bg-gray-50">
       <Banner 
-        title="Unlock Your Potential with CodeAcademy"
+        title="Unlock Your Potential with CodeNest"
         subtitle="Learn modern technologies, master coding skills, and join a global developer community."
         primaryColor="text-indigo-600"
         buttonColor="bg-teal-500 hover:bg-teal-600"
@@ -22,7 +22,7 @@ export default function Home() {
       />
 
       <HighlightSection 
-        title="Why CodeAcademy?"
+        title="Why CodeNest?"
         titleColor="text-indigo-700"
         cardsBg="bg-white"
         cardsShadow="shadow-md"
@@ -30,7 +30,7 @@ export default function Home() {
 
       <TrustedSection 
         title="Trusted by Top Tech Brands"
-        subtitle="Thousands of students and developers grow their careers with CodeAcademy."
+        subtitle="Thousands of students and developers grow their careers with CodeNest."
         titleColor="text-indigo-700"
         bg="bg-gray-50"
       />

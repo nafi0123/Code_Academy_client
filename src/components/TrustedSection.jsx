@@ -1,6 +1,6 @@
 export default function TrustedSection({
   title = "Trusted by Top Tech Brands",
-  subtitle = "Thousands of students grow their careers with CodeAcademy — supported by industry-leading companies.",
+  subtitle = "Thousands of students grow their careers with CodeNest — supported by industry-leading companies.",
   titleColor = "text-indigo-700",
   bg = "bg-white"
 }) {

@@ -91,7 +91,7 @@ export default function Navbar() {
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2 btn btn-ghost normal-case font-bold text-indigo-600">
           <Image src={Logo} alt="logo" width={40} height={40} className="rounded-full" />
-          <span className="text-lg md:text-xl">CodeAcademy</span>
+          <span className="text-lg md:text-xl">CodeNest</span>
         </Link>
       </div>
 

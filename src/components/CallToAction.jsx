@@ -14,7 +14,7 @@ export default function CallToAction() {
           </h2>
           <p className="text-gray-100 mb-6">
             Join thousands of learners who are mastering programming, building real projects,
-            and advancing their careers with CodeAcademy.
+            and advancing their careers with CodeNest.
           </p>
           <Link
             href="/register"

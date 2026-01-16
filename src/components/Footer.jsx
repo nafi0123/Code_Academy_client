@@ -8,9 +8,9 @@ export default function Footer() {
 
         {/* Logo + Description */}
         <div className="flex flex-col items-start gap-4 md:w-1/4">
-          <Image src={logo} alt="CodeAcademy Logo" width={120} height={40} />
+          <Image src={logo} alt="CodeNest Logo" width={120} height={40} />
           <p className="text-gray-300 text-sm md:text-base">
-            CodeAcademy helps you learn modern technologies and grow your coding career. Join our global community.
+            CodeNest helps you learn modern technologies and grow your coding career. Join our global community.
           </p>
         </div>
 
@@ -58,7 +58,7 @@ export default function Footer() {
       </div>
 
       <div className="mt-10 border-t border-gray-700 pt-4 text-center text-gray-400 text-sm">
-        &copy; {new Date().getFullYear()} CodeAcademy. All rights reserved.
+        &copy; {new Date().getFullYear()} CodeNest. All rights reserved.
       </div>
     </footer>
   );
